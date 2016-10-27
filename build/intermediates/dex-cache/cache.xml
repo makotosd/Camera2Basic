@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_d5645dd93f0f92c09c3d3d060488610e79681f24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_2911f462f22c881e33d8b603205f5628b0c21b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f2a40ffebae600c0bdd29503f6f43e67064d3ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_4f92a23839eef5ec26fcf5ca78f66b45c6319376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a17cf8319bd538c1e41c494be10ab9586cfc7a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7e6c2137f4941d614a5828a6845dd453226e47e">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5241c5ccc279038e9225800647ef0e49404ef032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_610d0d99134ae1133019231a26a7d2092f9e0363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f616d851c60eff5bf5fb75c5b2ca758ae3253ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d22db5da18886353a2529de6b800f2ff04a6c0f4">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72ce98f7245048b7237dcc3df45059cb62101507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_6ae86b732e08960f7ab21d18a5b6f4a6600d5625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Makoto\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_5e9ab5edfa9b8d9a3c3a4a6eafbb1df518a9ebf8\classes.dex" />
+    </item>
+
+</items>
